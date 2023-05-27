@@ -7,4 +7,8 @@ public class NewClass {
     public void test() {
 
     }
+
+    public void test2() {
+
+    }
 }
